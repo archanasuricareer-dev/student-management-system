@@ -17,5 +17,4 @@ This is a Java-based console application to manage student records.
 - OOP Concepts
 
 ## 👩‍💻 Developed By
-Archana# student-management-system
-Java project to manage student records
+Archana
